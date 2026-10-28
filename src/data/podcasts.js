@@ -1,0 +1,87 @@
+// ===== Podcasts & Recorded Shows Data =====
+export const podcasts = [
+  {
+    id: 1,
+    title: 'Nduat Show: Special Interview with Hon. David Ole Sankok',
+    host: 'Vincent Ole Kipelian',
+    show: 'Nduat Show',
+    duration: '1:00:40',
+    date: '20 Oct 2026',
+    category: 'Leadership & Politics',
+    audioUrl: 'https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=african-safari-112347.mp3',
+    description: 'An exclusive studio recording of the deep discussion between CEO Vincent Kipelian and Hon. David Ole Sankok covering national unity, youth employment, and Maa socio-economic pillars.',
+    downloads: 1240,
+    listens: 3420,
+    image: 'https://img.youtube.com/vi/c_9lAEB1wqw/hqdefault.jpg'
+  },
+  {
+    id: 2,
+    title: 'Enkiguana Olosho: Elders Council on Land Rights & Pastoralist Welfare',
+    host: 'Saoli Senior',
+    show: 'Enkiguana Olosho',
+    duration: '1:27:33',
+    date: '15 Oct 2026',
+    category: 'Culture & Governance',
+    audioUrl: 'https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3?filename=traditional-african-drums-111153.mp3',
+    description: 'Elder council discussions on grazing rights, community conservancies in the Mara ecosystem, and modern land tenure systems for pastoralist families.',
+    downloads: 890,
+    listens: 2150,
+    image: 'https://img.youtube.com/vi/gHkuxpjlbHA/hqdefault.jpg'
+  },
+  {
+    id: 3,
+    title: 'Ilomon Lenkigura: Cultural Proverbs & Wisdom for the Modern Youth',
+    host: 'Stephen Kipambi Montoi',
+    show: 'Ilomon Lenkigura',
+    duration: '45:12',
+    date: '10 Oct 2026',
+    category: 'Maa Culture & Heritage',
+    audioUrl: 'https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8c8a73467.mp3?filename=savanna-rhythm-108711.mp3',
+    description: 'Stephen Kipambi unpacks key Maa folklore stories, proverbs, and philosophical lessons passed through generations from grandfather to morans.',
+    downloads: 1450,
+    listens: 4120,
+    image: 'https://img.youtube.com/vi/0ZuG-Lrysn0/hqdefault.jpg'
+  },
+  {
+    id: 4,
+    title: 'Maasai Mara Conservation: Human-Wildlife Coexistence with Chief Warden',
+    host: 'Vincent Ole Kipelian',
+    show: 'Special Documentary',
+    duration: '23:11',
+    date: '02 Oct 2026',
+    category: 'Conservation & Wildlife',
+    audioUrl: 'https://cdn.pixabay.com/download/audio/2022/10/14/audio_9939f792cb.mp3?filename=african-sunset-122550.mp3',
+    description: 'Chief Park Warden Stephen Ole Minis discusses anti-poaching measures, revenue sharing models with local group ranches, and wildlife migration corridors.',
+    downloads: 670,
+    listens: 1890,
+    image: 'https://img.youtube.com/vi/v_3pa1jpndA/hqdefault.jpg'
+  },
+  {
+    id: 5,
+    title: 'Youth Leadership & County Governance: An Interview with MCA Caro',
+    host: 'Vincent Ole Kipelian',
+    show: 'Youth Empowerment Hour',
+    duration: '32:15',
+    date: '28 Sep 2026',
+    category: 'Youth Leadership',
+    audioUrl: 'https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=african-safari-112347.mp3',
+    description: 'MCA Caro shares her personal journey becoming the youngest elected member of the Narok County Assembly and how young people can influence county budgeting.',
+    downloads: 1120,
+    listens: 2780,
+    image: 'https://img.youtube.com/vi/ANijFttJBdc/hqdefault.jpg'
+  },
+  {
+    id: 6,
+    title: 'Maape Ang Drive: Hot African Rhythms & Narok Commuter Banter',
+    host: 'Erick Sordo',
+    show: 'Maape Ang',
+    duration: '52:40',
+    date: '22 Sep 2026',
+    category: 'Music & Entertainment',
+    audioUrl: 'https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3?filename=traditional-african-drums-111153.mp3',
+    description: 'The liveliest drive-show in Narok! Listener greetings, road safety updates, trending Maa gospel hits, and community humor with Erick Sordo.',
+    downloads: 2100,
+    listens: 5800,
+    image: 'https://img.youtube.com/vi/KGlhRbQRa10/hqdefault.jpg'
+  }
+];
